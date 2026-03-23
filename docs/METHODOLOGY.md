@@ -134,7 +134,7 @@ Dimensions are coupled. A change in one creates ripple effects across the others
 
 Understanding these connections changes how you approach wellness. Instead of trying to fix every low dimension separately, you can find the one intervention that will have the biggest ripple effect across your whole system.
 
-The premium tier includes the full mathematical model that quantifies these connections and predicts cascade effects. See [8D360-Human-premium](https://github.com/divinityscience/8D360-Human-premium) for the coupling coefficients, cascade modeling, and intervention optimization.
+See [8D360-Human-premium](https://github.com/divinityscience/8D360-Human-premium) for advanced scoring.
 
 ---
 
@@ -262,13 +262,13 @@ Focus area: Physical (lowest score, affects multiple other dimensions)
 ## Want More?
 
 The premium tier adds:
-- **Mathematical scoring model** with coupling coefficients that quantify how dimensions interact
+- **Advanced mathematical scoring** (see premium tier) that quantifies dimension interactions
 - **Three-layer scoring** using behavioral data, self-assessment, AND cross-dimensional math
 - **Cascade modeling** that predicts how disruptions propagate through your system
 - **Personality integration** mapping Big Five, MBTI, and Enneagram to your 8D profile
 - **Neurodivergent adaptations** for ADHD, autism, bipolar, anxiety, and depression
 - **AI Wellness Partner** setup for persistent, adaptive, long-term wellness tracking
-- **Burnout detection** with specific cascade signature identification
+- **Burnout detection** algorithms (see premium tier)
 - **Biomarker integration** connecting wearable/sensor data to dimension scores
 
 See [8D360-Human-premium](https://github.com/divinityscience/8D360-Human-premium).
