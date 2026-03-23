@@ -40,6 +40,12 @@ Stress eating or not eating. Sleep deprivation from work, screens, or anxiety. S
 ### The Science
 Sleep deprivation impairs cognitive function equivalent to legal intoxication. Regular moderate exercise is as effective as antidepressants for mild-to-moderate depression. These aren't wellness hacks. They're established findings from decades of research.
 
+**New finding (Mar 2026):** Sleep debt has molecular consequences. After 5 nights of restriction followed by full recovery, inflammatory, circadian, and stress genes remain dysregulated (Cheng et al., SLEEP Oxford, Mar 18, 2026). "Catching up" doesn't erase the damage. Prevention (consistent sleep) is worth more than recovery.
+
+**New finding (Mar 2026):** 22-25% of prediabetes patients reversed their condition through fat redistribution and lifestyle changes, without weight loss (Nature Medicine, Mar 2026). Metabolic health is achievable at many different body sizes. Don't fixate on the scale.
+
+**New finding (Mar 2026):** Random "zoning out" and attention lapses may be a vigilance regulation issue tied to sleep-wake physiology, not a willpower problem (Pinggal et al., J Neuroscience, Mar 17, 2026).
+
 ---
 
 ## Dimension 2: Psychological (Below 7)
@@ -64,6 +70,10 @@ Unprocessed emotions stacking up. Chronic stress without recovery. Avoiding feel
 
 ### The Science
 Emotional labeling (affect labeling) reduces amygdala activation. Journaling about stressful events improves both psychological and physical health outcomes. Cognitive behavioral techniques are among the most effective interventions for anxiety and depression.
+
+**New finding (Mar 2026):** Identity-level beliefs govern which behaviors you'll even consider changing (Palejova, arXiv, Mar 19, 2026). This explains why you can intellectually know something is unhealthy and still not change. The knowledge sits at the "belief" level, but the behavior is governed by a deeper "identity" level. Don't fight your identity. Work with it. Instead of "I should exercise more," try "I'm someone who takes care of my body." Once the identity shifts, the behaviors follow.
+
+**New finding (Mar 2026):** Emotions aren't discrete categories (happy, sad, angry) but a continuous "fabric" of neural dynamics (Sturm + Seeley, SCAN, Mar 13, 2026). Stop trying to label every feeling with a single word. "I feel a mix of anxious and excited with some frustration" is more accurate and gives better self-awareness than picking one label.
 
 ---
 
@@ -223,7 +233,7 @@ Financial stress activates the same brain regions as physical pain. Financial li
 
 Some combinations of low scores require specific attention:
 
-**Physical + Psychological both low:** Start with sleep. Sleep deprivation is the single fastest way to tank both dimensions simultaneously. Fix sleep first, then tackle the rest.
+**Physical + Psychological both low:** Start with sleep. Sleep deprivation is the single fastest way to tank both dimensions simultaneously. Fix sleep first, then tackle the rest. New research shows the coupling is even tighter than previously known: vigilance regulation (a Psychological function) is governed by wakefulness physiology (Physical), and sleep debt creates molecular scars that persist even after "catching up" (Cheng et al., 2026).
 
 **Social + Spiritual both low:** You're probably isolated and feeling purposeless. Join a community around something meaningful to you. This addresses both at once.
 

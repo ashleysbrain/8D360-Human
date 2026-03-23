@@ -26,10 +26,10 @@ Your body. How it feels, how it functions, how you treat it.
 
 | Sub-Dimension | What It Measures |
 |---------------|-----------------|
-| **Sleep Quality** | Duration, consistency, restfulness. Do you wake up feeling recovered? |
-| **Nutrition** | Quality of food, consistency of eating patterns, hydration, relationship with food |
+| **Sleep Quality** | Duration, consistency, restfulness. Do you wake up feeling recovered? Research shows sleep debt has molecular consequences: after 5 nights of restriction followed by recovery, inflammatory and circadian genes remain dysregulated (Cheng et al., SLEEP Oxford, Mar 18, 2026). "Catching up" doesn't erase the damage. Consistent sleep matters more than occasional long sleeps. |
+| **Nutrition & Metabolic Health** | Quality of food, consistency of eating patterns, hydration, relationship with food. Body composition and metabolic health matter more than scale weight. Research showed 22-25% of prediabetes patients reversed their condition through fat redistribution and lifestyle changes, with zero weight loss (Nature Medicine, Mar 2026). Focus on how you feel and function, not just the number on the scale. |
 | **Exercise/Movement** | Regular physical activity, variety, consistency. Not just gym, any movement counts |
-| **Energy Levels** | Sustained energy throughout the day, crashes, stimulant dependence |
+| **Energy Levels & Vigilance** | Sustained energy throughout the day, crashes, stimulant dependence. Track not just "how much energy" but "how stable is your alertness." Random zoning out, attention lapses, and inability to sustain focus are health signals, not personality flaws. Research reframes these as vigilance regulation issues tied to sleep-wake physiology (Pinggal et al., J Neuroscience, Mar 17, 2026). |
 | **Body Awareness** | Connection to physical sensations, pain management, preventive care, medical check-ups |
 
 ### Dimension 2: Psychological (ψ)
@@ -38,7 +38,7 @@ Your inner world. How you handle emotions, stress, and your own mind.
 
 | Sub-Dimension | What It Measures |
 |---------------|-----------------|
-| **Emotional Regulation** | Ability to identify, process, and manage emotions without suppression or explosion |
+| **Emotional Regulation** | Ability to identify, process, and manage emotions without suppression or explosion. Research suggests emotions aren't discrete categories (happy, sad, angry) but a continuous "fabric" of neural dynamics (Sturm + Seeley, SCAN, Mar 13, 2026). Tracking your emotional landscape as a flowing spectrum, not a checklist of labels, gives better self-awareness. |
 | **Stress Management** | Healthy coping strategies, stress recovery time, ability to decompress |
 | **Self-Awareness** | Understanding your patterns, triggers, motivations, and blind spots |
 | **Resilience** | Bounce-back capacity after setbacks, adaptability to change |
@@ -126,7 +126,7 @@ But that's not how life works. When your sleep collapses, your emotional regulat
 
 Dimensions are coupled. A change in one creates ripple effects across the others. Some connections are stronger than others:
 
-- **Mental health and physical health** are tightly linked. If one drops, the other usually follows.
+- **Mental health and physical health** are tightly linked. If one drops, the other usually follows. Research confirms this coupling is even tighter than previously understood: ADHD slow-wave data shows vigilance regulation (a psychological function) is physically governed by wakefulness physiology (Pinggal et al., 2026), and sleep debt creates molecular scars affecting both dimensions through persistent gene dysregulation (Cheng et al., 2026). Your brain continues processing prediction errors during sleep (Blume et al., 2026), so sleep quality directly shapes daytime cognitive function.
 - **Purpose and work satisfaction** reinforce each other. Meaningful work fuels your sense of purpose, and purpose makes work feel meaningful.
 - **Your body constrains your brain.** Physical health directly affects intellectual capacity.
 - **Money stress is mental health stress.** Financial problems cascade into emotional problems fast.

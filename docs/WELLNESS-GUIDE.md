@@ -57,7 +57,7 @@ When something feels off, ask yourself: "Which dimension is this?" You'd be surp
 
 Feeling anxious at work? Maybe it's not Psychological. Maybe your Financial dimension is tanking and it's bleeding into your work stress.
 
-Can't focus on anything? Maybe it's not Intellectual. Maybe your Physical dimension is shot because you slept four hours.
+Can't focus on anything? Maybe it's not Intellectual. Maybe your Physical dimension is shot because you slept four hours. Research (Pinggal et al., 2026) shows that attention lapses and "zoning out" are often vigilance regulation issues tied to sleep-wake physiology, not willpower failures. And sleep debt has molecular consequences that don't disappear with one good night (Cheng et al., 2026).
 
 The framework gives you a map. Use it to stop treating symptoms and start finding root causes.
 
@@ -150,7 +150,7 @@ The AI gets better at helping you the more you use it. By the fifth session, it 
 No. You need to be honest with yourself about how your life is going across 8 areas. That's it. No incense required.
 
 **What if all my scores are low?**
-Start with Physical. Get your sleep, nutrition, and movement to a baseline level. Almost everything else improves when your body is functioning. Then tackle your second-lowest dimension.
+Start with Physical. Get your sleep, nutrition, and movement to a baseline level. Almost everything else improves when your body is functioning. Then tackle your second-lowest dimension. And don't try to "catch up on sleep" over the weekend. Research shows that after even 5 nights of restricted sleep, inflammatory and stress genes stay dysregulated even after recovery sleep (Cheng et al., SLEEP Oxford, Mar 2026). Consistent sleep beats weekend binges every time.
 
 **What if I don't agree with my AI's scoring?**
 Push back. Say "I think my Social should be a 6, not a 4, because..." and explain why. Good AI wellness partners adjust. The score should reflect YOUR reality, not a generic standard.

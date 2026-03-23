@@ -1,5 +1,22 @@
 # Version History
 
+## v1.1.0 (2026-03-23)
+
+**Research-to-Product Pipeline: 7 Peer-Reviewed Findings**
+
+Integrates findings from the week of March 17-23, 2026.
+
+### Research Implemented
+- **ADHD as Vigilance Disorder** (Pinggal et al., J Neuroscience, Mar 17, 2026): Energy & Vigilance sub-dimension updated in Physical and Psychological
+- **Prediabetes Reversal Without Weight Loss** (Nature Medicine, Mar 2026): Nutrition renamed to Nutrition & Metabolic Health, emphasis on body composition over BMI
+- **Sleep Debt is Molecular** (Cheng et al., SLEEP Oxford, Mar 18, 2026): Sleep Quality sub-dimension updated, healing playbook expanded
+- **Dynamic Emotion Fabric** (Sturm + Seeley, SCAN, Mar 13, 2026): Emotional Regulation updated from discrete to continuous model
+- **Authority-Level Priors** (Palejova, arXiv, Mar 19, 2026): Healing playbook updated with identity-level intervention approach
+- **Prediction Error Processing During Sleep** (Blume et al., J Neuroscience, Mar 18, 2026): Physical-Psychological coupling evidence in dimension connections
+- Cross-dimensional healing protocols updated with new coupling evidence
+
+---
+
 ## v1.0.0 (2026-03-23)
 
 **Initial Release**
