@@ -40,6 +40,8 @@ Stress eating or not eating. Sleep deprivation from work, screens, or anxiety. S
 ### The Science
 Sleep deprivation impairs cognitive function equivalent to legal intoxication. Regular moderate exercise is as effective as antidepressants for mild-to-moderate depression. These aren't wellness hacks. They're established findings from decades of research.
 
+And here's something new: memory consolidation is a metabolic process. Your mitochondria (the energy factories inside your cells) directly control whether weak experiences become durable long-term memories (Nature Metabolism, 2026). That means every physical health intervention, better sleep, more movement, real nutrition, is simultaneously a cognitive performance intervention. Your body and your brain aren't separate systems. They run on the same fuel.
+
 **New finding (Mar 2026):** Sleep debt has molecular consequences. After 5 nights of restriction followed by full recovery, inflammatory, circadian, and stress genes remain dysregulated (Cheng et al., SLEEP Oxford, Mar 18, 2026). "Catching up" doesn't erase the damage. Prevention (consistent sleep) is worth more than recovery.
 
 **New finding (Mar 2026):** 22-25% of prediabetes patients reversed their condition through fat redistribution and lifestyle changes, without weight loss (Nature Medicine, Mar 2026). Metabolic health is achievable at many different body sizes. Don't fixate on the scale.

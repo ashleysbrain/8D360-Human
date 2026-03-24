@@ -1,5 +1,11 @@
 # Version History
 
+## v1.1.1 (2026-03-24)
+
+- Metabolic-cognitive link added to Physical healing section (LETM1, Nature Metabolism 2026)
+
+---
+
 ## v1.1.0 (2026-03-23)
 
 **Research-to-Product Pipeline: 7 Peer-Reviewed Findings**
