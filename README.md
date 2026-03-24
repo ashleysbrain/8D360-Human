@@ -56,11 +56,11 @@ The AI doesn't just give you a number. It learns you. Your patterns, your trigge
 
 ## What's Inside
 
-- **[SETUP.md](SETUP.md)** — Three ways to get started, from instant to deep
-- **[docs/METHODOLOGY.md](docs/METHODOLOGY.md)** — The complete 8D methodology with all 40 sub-dimensions
-- **[docs/SELF-ASSESSMENT.md](docs/SELF-ASSESSMENT.md)** — Injectable prompt for AI-guided assessment
-- **[docs/HEALING-PLAYBOOK.md](docs/HEALING-PLAYBOOK.md)** — What to do when a dimension drops
-- **[docs/WELLNESS-GUIDE.md](docs/WELLNESS-GUIDE.md)** — Plain-language guide for daily use
+- **[SETUP.md](SETUP.md)** - Three ways to get started, from instant to deep
+- **[docs/METHODOLOGY.md](docs/METHODOLOGY.md)** - The complete 8D methodology with all 40 sub-dimensions
+- **[docs/SELF-ASSESSMENT.md](docs/SELF-ASSESSMENT.md)** - Injectable prompt for AI-guided assessment
+- **[docs/HEALING-PLAYBOOK.md](docs/HEALING-PLAYBOOK.md)** - What to do when a dimension drops
+- **[docs/WELLNESS-GUIDE.md](docs/WELLNESS-GUIDE.md)** - Plain-language guide for daily use
 
 ## One Prompt to Test
 
@@ -103,7 +103,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Created By
 
-**Ashley Williams** — Founder and CEO of [Divinity Science](https://divinityscience.com)
+**Ashley Williams** - Founder and CEO of [Divinity Science](https://divinityscience.com)
 
 Divinity Science builds technologies across all 8 dimensions of wellness. 8D360 is the framework that powers everything we do.
 
