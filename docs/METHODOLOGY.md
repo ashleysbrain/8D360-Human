@@ -262,8 +262,8 @@ Focus area: Physical (lowest score, affects multiple other dimensions)
 ## Want More?
 
 The premium tier adds:
-- **Mathematical scoring model** with coupling coefficients that quantify how dimensions interact
-- **Three-layer scoring** using behavioral data, self-assessment, AND cross-dimensional math
+- **Advanced scoring model** that quantifies how dimensions interact (see premium tier for full details)
+- **Multi-source scoring** using behavioral data, self-assessment, and cross-dimensional analysis
 - **Cascade modeling** that predicts how disruptions propagate through your system
 - **Personality integration** mapping Big Five, MBTI, and Enneagram to your 8D profile
 - **Neurodivergent adaptations** for ADHD, autism, bipolar, anxiety, and depression

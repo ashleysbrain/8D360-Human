@@ -45,9 +45,9 @@ But there's more under the hood.
 
 The premium tier includes advanced setup options that give the AI:
 
-- **Three-layer scoring** that goes beyond self-reporting by combining behavioral data, your self-assessment, and mathematical coupling between dimensions
+- **Multi-source scoring** that goes beyond self-reporting by combining behavioral data, your self-assessment, and cross-dimensional analysis
 - **Cross-dimensional math** that quantifies exactly how your dimensions affect each other (e.g., how much a sleep disruption impacts your cognitive function)
-- **Cascade detection** that identifies when a problem in one dimension is propagating to others
+- **Pattern detection** that identifies when a challenge in one dimension is affecting others
 - **Personality-aware prompts** that tailor everything to your Big Five, MBTI, or Enneagram type
 - **Neurodivergent adaptations** that adjust scoring and strategies for ADHD, autism, bipolar, and more
 - **Persistent AI wellness partner** setup for long-term tracking that learns your patterns over months
