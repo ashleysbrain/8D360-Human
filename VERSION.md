@@ -1,5 +1,13 @@
 # Version History
 
+## v1.1.2 (2026-03-25)
+
+- ENV Work Environment sub-dimension updated: occupational noise below OSHA threshold drives cortisol/BP/glucose (systematic review, Eur J Appl Physiol 2026).
+- Exercise/Movement sub-dimension updated: BDNF cascade mechanism added (Cell Metabolism 2026 landmark review, Nature Metabolism 2026).
+- Source agents: HORIZON synthesis, DARK MATTER digest.
+
+---
+
 ## v1.1.1 (2026-03-24)
 
 - Metabolic-cognitive link added to Physical healing section (LETM1, Nature Metabolism 2026)
