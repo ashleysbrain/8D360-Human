@@ -48,6 +48,8 @@ And here's something new: memory consolidation is a metabolic process. Your mito
 
 **New finding (Mar 2026):** Random "zoning out" and attention lapses may be a vigilance regulation issue tied to sleep-wake physiology, not a willpower problem (Pinggal et al., J Neuroscience, Mar 17, 2026).
 
+**New finding (Mar 2026, exercise dose-response):** We now have the complete molecular picture for why both too little AND too much exercise matter. Moderate exercise triggers your liver to release GPLD1, a molecule that crosses the blood-brain barrier and restores memory function (Cell, 2026). But excessive vigorous exercise triggers your muscles to release damaging mitochondrial vesicles (otMDVs) that harm brain cells (Cell Metabolism, 2026). There's a sweet spot: consistent moderate exercise beats sporadic intense sessions. This is especially important for people with ADHD or bipolar disorder, where the brain is already under metabolic stress.
+
 ---
 
 ## Dimension 2: Psychological (Below 7)

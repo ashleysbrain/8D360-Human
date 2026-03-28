@@ -1,5 +1,12 @@
 # Version History
 
+## v1.1.3 (2026-03-28)
+
+- Exercise dose-response finding added to Physical healing section: moderate exercise triggers liver GPLD1 (memory rescue), excessive exercise triggers muscle otMDVs (brain cell harm). Sweet spot matters, especially for ADHD/BD populations (Cell + Cell Metabolism, 2026).
+- Source agents: DARK MATTER digest, HORIZON synthesis.
+
+---
+
 ## v1.1.2 (2026-03-25)
 
 - ENV Work Environment sub-dimension updated: occupational noise below OSHA threshold drives cortisol/BP/glucose (systematic review, Eur J Appl Physiol 2026).
