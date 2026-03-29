@@ -74,3 +74,17 @@ A few things worth knowing:
 
 **National Suicide Prevention Lifeline:** 988 (call or text)
 **Crisis Text Line:** Text HOME to 741741
+
+---
+
+## What the Science Says (March 2026 Update)
+
+A few recent findings worth knowing as you use this framework:
+
+**Your gut affects your brain directly.** A PROSPERO-registered systematic review of 20 studies (Frontiers in Molecular Neuroscience, 2026) confirmed that Mediterranean diet adherence increases beneficial bacteria, which produce butyrate, which in turn supports serotonin production and reduces neuroinflammation. Gut health isn't just a Physical metric. It directly shapes your Psychological score. If your mood has been unstable, ask whether your diet and gut health are contributing.
+
+**Social isolation is a clinical variable.** The Lancet Public Health (2026) identified social isolation as one of 7 modifiable risk factors for dementia. Structured social care programs reduce healthcare costs by $617 per member per month (Health Affairs Scholar, 2026). Your Social score matters medically, not just emotionally.
+
+**Exercise has a sweet spot, and it's molecular.** Both too little and too much vigorous exercise can harm brain health through different pathways (Cell, 2026; Cell Metabolism, 2026). Consistent moderate exercise beats sporadic high-intensity sessions, especially for people with ADHD or bipolar disorder.
+
+**The framework captures what single-metric approaches miss.** A head-to-head biomarker study (PMID 41896267, Commun Med, 2026) found that multi-system composite scores outperform every single-dimension biomarker for predicting health outcomes. That's exactly what TWC measures.

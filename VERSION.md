@@ -1,5 +1,12 @@
 # Version History
 
+## v1.1.4 (2026-03-29)
+
+- Gut-brain-microbiome findings added to SETUP.md "What the Science Says" section: Mediterranean diet gut-brain axis (Frontiers Mol Neurosci, 2026), social isolation as clinical variable (Lancet Public Health, 2026), exercise sweet spot confirmation (Cell, Cell Metabolism, 2026), multi-system composite validation (PMID 41896267, 2026).
+- Source agents: DARK MATTER digest, GENOME systems-bio scan, HORIZON synthesis.
+
+---
+
 ## v1.1.3 (2026-03-28)
 
 - Exercise dose-response finding added to Physical healing section: moderate exercise triggers liver GPLD1 (memory rescue), excessive exercise triggers muscle otMDVs (brain cell harm). Sweet spot matters, especially for ADHD/BD populations (Cell + Cell Metabolism, 2026).
