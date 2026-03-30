@@ -1,5 +1,12 @@
 # Version History
 
+## v1.1.5 (2026-03-30)
+
+- **What the Science Says** section (SETUP.md) updated with three new findings: (1) Belief flexibility as psychological core metric (HORIZON cross-domain synthesis, Mar 2026). (2) Social connection as multi-neuropeptide network, not just emotional (Neuroscience & Biobehavioral Reviews, DOI: 10.1016/j.neubiorev.2026.106664, 2026). (3) Reframe of neurodivergence: belief-updating rate differences, not deficits.
+- Source agents: ATLAS (academic-lit), HORIZON (synthesis 3/30).
+
+---
+
 ## v1.1.4 (2026-03-29)
 
 - Gut-brain-microbiome findings added to SETUP.md "What the Science Says" section: Mediterranean diet gut-brain axis (Frontiers Mol Neurosci, 2026), social isolation as clinical variable (Lancet Public Health, 2026), exercise sweet spot confirmation (Cell, Cell Metabolism, 2026), multi-system composite validation (PMID 41896267, 2026).
