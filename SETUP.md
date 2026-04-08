@@ -74,3 +74,27 @@ A few things worth knowing:
 
 **National Suicide Prevention Lifeline:** 988 (call or text)
 **Crisis Text Line:** Text HOME to 741741
+
+---
+
+## What the Science Says (March 2026 Update)
+
+A few recent findings worth knowing as you use this framework:
+
+**Your gut affects your brain directly.** A PROSPERO-registered systematic review of 20 studies (Frontiers in Molecular Neuroscience, 2026) confirmed that Mediterranean diet adherence increases beneficial bacteria, which produce butyrate, which in turn supports serotonin production and reduces neuroinflammation. Gut health isn't just a Physical metric. It directly shapes your Psychological score. If your mood has been unstable, ask whether your diet and gut health are contributing.
+
+**Social isolation is a clinical variable.** The Lancet Public Health (2026) identified social isolation as one of 7 modifiable risk factors for dementia. Structured social care programs reduce healthcare costs by $617 per member per month (Health Affairs Scholar, 2026). Your Social score matters medically, not just emotionally.
+
+**Exercise has a sweet spot, and it's molecular.** Both too little and too much vigorous exercise can harm brain health through different pathways (Cell, 2026; Cell Metabolism, 2026). Consistent moderate exercise beats sporadic high-intensity sessions, especially for people with ADHD or bipolar disorder.
+
+**The framework captures what single-metric approaches miss.** A head-to-head biomarker study (PMID 41896267, Commun Med, 2026) found that multi-system composite scores outperform every single-dimension biomarker for predicting health outcomes. That's exactly what TWC measures.
+
+**Psychological wellness is partly about belief flexibility.** Cross-domain research (HORIZON synthesis, Mar 2026) has identified belief updating as the core mechanism behind most therapeutic change — CBT, exposure therapy, coaching, meditation, even psychedelics all work by helping you revise stuck beliefs faster. How quickly you can update a belief when new evidence shows up is a better indicator of psychological resilience than any snapshot mood score. This also reframes neurodivergence: ADHD and autism involve different belief-updating *rates*, not psychological deficits.
+
+**Social connection is biologically driven, not just emotional.** A 2026 neuropeptide review (Neuroscience & Biobehavioral Reviews) found that social wellness depends on a whole network of brain chemicals — oxytocin, vasopressin, CRH, orexin, NPY — all working together. That's why social isolation causes measurable physiological harm: it's disrupting a multi-system biological network, not just making you feel lonely. Your Social score and your Physical score are more connected than most people think.
+
+**Self-control is a cross-dimensional resource, not a personality trait.** Three independent studies in a single week (Nature Communications, BMC Psychiatry, Acta Psychologica, late March 2026) converged on the same finding: executive function predicts outcomes across psychological, financial, social, and physical dimensions simultaneously. It's not sitting in one category. When your self-control is depleted (stress, poor sleep, emotional overwhelm), every dimension takes a hit. That's why structural nudges, smart defaults, choice architecture, and automation, outperform education and willpower for behavior change. A nudge study showed that default prescribing doubled medication adherence (OR 1.9). 8D360's approach builds healthy environments rather than demanding willpower you may not have today.
+
+**Sleep quality matters more than sleep duration.** The "8 hours" rule is an oversimplification. For people with ADHD, sleep disturbance correlates with symptom severity but NOT with how long you sleep (n=4,414, March 2026). And paradoxically, longer sleep in at-risk bipolar youth predicts worse outcomes (OR=2.23). The key metric is sleep rhythm stability: how consistent your sleep-wake timing is, and how well your sleep architecture is functioning. If your sleep schedule is all over the place, even "enough hours" won't give you real recovery.
+
+**Show progress as gains, not gaps.** Neuroscience research on value encoding in the brain (Nature Communications, March 2026) found that neurons recruit more resources for goal pursuit when progress is framed as gains from your personal baseline versus distance from some norm. "You improved 15% from last month" activates a different brain response than "you're below the average." Same data, different framing, different motivation. When you look at your 8D scores, compare to YOUR past, not to anyone else.

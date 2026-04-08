@@ -28,7 +28,7 @@ Your body. How it feels, how it functions, how you treat it.
 |---------------|-----------------|
 | **Sleep Quality** | Duration, consistency, restfulness. Do you wake up feeling recovered? Research shows sleep debt has molecular consequences: after 5 nights of restriction followed by recovery, inflammatory and circadian genes remain dysregulated (Cheng et al., SLEEP Oxford, Mar 18, 2026). "Catching up" doesn't erase the damage. Consistent sleep matters more than occasional long sleeps. |
 | **Nutrition & Metabolic Health** | Quality of food, consistency of eating patterns, hydration, relationship with food. Body composition and metabolic health matter more than scale weight. Research showed 22-25% of prediabetes patients reversed their condition through fat redistribution and lifestyle changes, with zero weight loss (Nature Medicine, Mar 2026). Focus on how you feel and function, not just the number on the scale. |
-| **Exercise/Movement** | Regular physical activity, variety, consistency. Not just gym, any movement counts |
+| **Exercise/Movement** | Regular physical activity, variety, consistency. Not just gym, any movement counts. The science now has a clear molecular explanation for why exercise touches everything: exercise upregulates BDNF, which drives mitochondrial efficiency, which in turn enables memory consolidation, mood stabilization, and cardiac protection (Cell Metabolism 2026 landmark review; Nature Metabolism 2026). You're not just "staying healthy." You're running a cascade that protects your brain, heart, and emotional state through one molecule. |
 | **Energy Levels & Vigilance** | Sustained energy throughout the day, crashes, stimulant dependence. Track not just "how much energy" but "how stable is your alertness." Random zoning out, attention lapses, and inability to sustain focus are health signals, not personality flaws. Research reframes these as vigilance regulation issues tied to sleep-wake physiology (Pinggal et al., J Neuroscience, Mar 17, 2026). |
 | **Body Awareness** | Connection to physical sensations, pain management, preventive care, medical check-ups |
 
@@ -51,7 +51,7 @@ The spaces you inhabit, both physical and digital.
 | Sub-Dimension | What It Measures |
 |---------------|-----------------|
 | **Living Space** | Comfort, cleanliness, organization, whether your home supports or drains you |
-| **Work Environment** | Physical workspace quality, noise levels, ergonomics, overall atmosphere |
+| **Work Environment** | Physical workspace quality, noise levels, ergonomics, overall atmosphere. Research shows that chronic occupational noise below the 85 dB OSHA safety threshold still elevates cortisol, blood pressure, and blood glucose within a single work shift, compounding into cardiovascular and metabolic risk over weeks (systematic review, Eur J Appl Physiol 2026). Noise isn't just an annoyance; it's a physiological stressor your body can't distinguish from psychological burnout. |
 | **Nature Exposure** | Time outdoors, access to green spaces, natural light, fresh air |
 | **Digital Environment** | Screen time quality, social media impact, information diet, digital boundaries |
 | **Physical Safety** | Feeling safe in your home, neighborhood, and daily environments |
@@ -76,7 +76,7 @@ Your sense of meaning and connection to something beyond yourself. This isn't ab
 |---------------|-----------------|
 | **Sense of Purpose** | Knowing why you're here, what drives you, what you're building toward |
 | **Values Alignment** | Living in a way that matches what you actually believe matters |
-| **Mindfulness Practice** | Present-moment awareness, meditation, contemplation, or any reflective practice |
+| **Mindfulness Practice** | Present-moment awareness, meditation, contemplation, or any reflective practice. Recent research (2026) shows loving-kindness meditation can create a paradox in lonely individuals: neural empathy circuits activate, but self-reported empathy doesn't improve. This suggests meditation works best when you already have some social connection. If you're isolated, prioritize building relationships before diving deep into solo meditation practice. |
 | **Gratitude** | Active appreciation for what you have, ability to find meaning in difficulty |
 | **Transcendent Connection** | Connection to nature, humanity, God, the universe, art, whatever gives you awe |
 
