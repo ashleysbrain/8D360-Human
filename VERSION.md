@@ -1,5 +1,21 @@
 # Version History
 
+## v1.1.7 (2026-04-08)
+
+**Research-to-Product Update: Loneliness-Empathy Paradox + Intervention Sequencing**
+
+- **Mindfulness Practice** (METHODOLOGY) updated with loneliness-empathy paradox finding: loving-kindness meditation can activate neural empathy circuits without improving self-reported empathy in lonely individuals (Social Cognitive and Affective Neuroscience, 2026). This suggests meditation works best when you already have some social connection. If you're isolated, prioritize building relationships before diving deep into solo meditation practice. Intervention sequencing matters: social connection first, then contemplative practice.
+- Source agents: DARK MATTER (digest 4/8), HORIZON (synthesis 4/8), ORACLE (contemplative 4/8), ATLAS-R2P.
+
+---
+
+## v1.1.6 (2026-04-01)
+
+- **What the Science Says** section updated with three new findings: (1) Self-control/executive function as cross-dimensional resource, not a personality trait (3 independent convergences, Nature Comms, BMC Psychiatry, Acta Psychologica, late March 2026). (2) Sleep quality and rhythm stability > sleep duration, especially for ADHD/BP2 (n=4,414, PMID 41883200). (3) Gain-framing: progress shown as gains from personal baseline activates more neural resources than comparison to norms (Nature Comms dACC study, PMID 41904153).
+- Source agents: DARK MATTER (digest 3/31), HORIZON (synthesis 3/31), PULSAR (HCI scan 4/1), ATLAS-R2P.
+
+---
+
 ## v1.1.5 (2026-03-30)
 
 - **What the Science Says** section (SETUP.md) updated with three new findings: (1) Belief flexibility as psychological core metric (HORIZON cross-domain synthesis, Mar 2026). (2) Social connection as multi-neuropeptide network, not just emotional (Neuroscience & Biobehavioral Reviews, DOI: 10.1016/j.neubiorev.2026.106664, 2026). (3) Reframe of neurodivergence: belief-updating rate differences, not deficits.
