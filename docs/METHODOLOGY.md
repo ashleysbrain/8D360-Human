@@ -134,7 +134,7 @@ Dimensions are coupled. A change in one creates ripple effects across the others
 
 Understanding these connections changes how you approach wellness. Instead of trying to fix every low dimension separately, you can find the one intervention that will have the biggest ripple effect across your whole system.
 
-The premium tier includes the full mathematical model that quantifies these connections and predicts cascade effects. See [8D360-Human-premium](https://github.com/divinityscience/8D360-Human-premium) for the coupling coefficients, cascade modeling, and intervention optimization.
+The premium tier includes the full mathematical model that quantifies these connections and predicts cascade effects. See [8D360-Human-premium](https://github.com/divinityscience/8D360-Human-premium) for the full mathematical model, cascade modeling, and intervention optimization.
 
 ---
 
